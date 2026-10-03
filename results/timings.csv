@@ -1,0 +1,12 @@
+Program,Threads,Execution_Time_Seconds
+Sequential,1,2.965359
+Pthreads,1,3.009574
+Pthreads,2,1.481584
+Pthreads,4,0.924759
+Pthreads,6,0.652311
+Pthreads,16,0.413948
+OpenMP,1,2.922494
+OpenMP,2,1.483852
+OpenMP,4,0.937276
+OpenMP,6,0.652948
+OpenMP,16,0.395491
