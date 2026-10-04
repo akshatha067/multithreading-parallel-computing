@@ -6,12 +6,6 @@
 
 ---
 
-## Author
-
-**Aksha**
-
----
-
 ## 1. Aim
 
 To develop multithreaded programs using **Pthreads and OpenMP** and understand:
@@ -50,6 +44,23 @@ The experiment was implemented using:
 - OpenMP
 - C programming language
 - Nano editor
+
+---
+
+
+## Performance Graphs
+
+### 1. Execution Time vs Number of Threads
+
+<img src="graphs/execution_time_vs_threads.png" alt="Execution Time vs Number of Threads" width="700">
+
+### 2. Speedup vs Number of Threads
+
+<img src="graphs/speedup_vs_threads.png" alt="Speedup vs Number of Threads" width="700">
+
+### 3. Efficiency vs Number of Threads
+
+<img src="graphs/efficiency_vs_threads.png" alt="Efficiency vs Number of Threads" width="700">
 
 ---
 
